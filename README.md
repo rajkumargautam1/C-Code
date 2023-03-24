@@ -1,5 +1,5 @@
 
-                                                                Data Structures and Algorithms(DSA) in C++
+                                   Data Structures and Algorithms(DSA) in C++
 
 
 ROADMAP
