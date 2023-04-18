@@ -4,9 +4,9 @@
 
 ROADMAP
 
-Week 1--- Flowcharts and Pseudocode
+Week 1--- Flowcharts and Pseudocode                                      completed
 
-Week 2--- Introduction to C++(Variables, Conditional, Loop etc.)
+Week 2--- Introduction to C++(Variables, Conditional, Loop etc.)         completed
 
 Week 3--- Arrays, Strings
 
