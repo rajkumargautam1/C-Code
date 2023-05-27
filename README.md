@@ -10,7 +10,7 @@ Week 2--- Introduction to C++(Variables, Conditional, Loop etc.)----------------
 
 Week 3--- Arrays, Strings----------------------------------------------------------Arrays completed
 
-Week 4--- Functions , Pointers, 2d Arrays--------------------------function completed
+Week 4--- Functions , Pointers, 2d Arrays----------------------------------------function completed
 
 Week 5--- Recursion
 
