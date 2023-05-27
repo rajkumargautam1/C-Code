@@ -8,7 +8,7 @@ Week 1--- Flowcharts and Pseudocode---------------------------------------------
 
 Week 2--- Introduction to C++(Variables, Conditional, Loop etc.)----------------------completed
 
-Week 3--- Arrays, Strings------------------------------------------------------Arrays completed
+Week 3--- Arrays, Strings----------------------------------------------------------Arrays completed
 
 Week 4--- Functions , Pointers, 2d Arrays
 
